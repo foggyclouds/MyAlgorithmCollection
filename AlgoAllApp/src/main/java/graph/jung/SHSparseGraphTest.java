@@ -1,4 +1,4 @@
-package graph;
+package graph.jung;
 
 /**
  * Created by 048048 on 8/17/2015.

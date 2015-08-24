@@ -1,4 +1,4 @@
-package graph;
+package graph.jung;
 
 import java.util.*;
 

@@ -1,8 +1,5 @@
 package algo.graphs;
 
-/**
- * Created by 048048 on 8/24/2015.
- */
 public class DFSNode<V> {
     int discoveryTime;
     int finishingTime;
